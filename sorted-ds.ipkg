@@ -13,10 +13,10 @@ package sorted-ds
 -- langversion
 
 -- packages to add to search path
--- depends =
+depends = contrib
 
 -- modules to install
--- modules =
+modules = Data.BinaryTree
 
 -- main file (i.e. file to load at REPL)
 -- main =
